@@ -1,5 +1,5 @@
 ### RikkaBlue here 🌱
-[![](https://cdna.tch.ink/illust_70110257_20190806_195649.webp)](https://thris.me)
+[![](https://cdn.233403.xyz/illust_70110257_20190806_195649.webp)](https://thris.me)
 
 <!--
 **RikkaBlue/RikkaBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
